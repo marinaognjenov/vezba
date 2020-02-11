@@ -1,2 +1,2 @@
 # vezba
-nesto novo
+# jos nesto novo
